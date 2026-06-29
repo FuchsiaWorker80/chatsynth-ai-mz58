@@ -1,4 +1,4 @@
-# 
+# Smart ChatSynth downloader. Download and install with gui-available and real-time-monitoring — fast, secure, and easy to use.
 
 
 
